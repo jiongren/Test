@@ -9,5 +9,5 @@ import java.io.Serializable;
  * @date 2017-09-28
  */
 
-public class BaseResponse implements Serializable {
+public class BaseResponse implements Serializable, IResponse {
 }
